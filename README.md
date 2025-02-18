@@ -65,9 +65,15 @@ Database Analysis: Explored different MySQL tables and their column purposes.
 
 ### Screenshots showcasing the data model and key tables:
 
-Visuals/Data_Model.png (Star Schema representation)
+Visuals/Data_Model.png ([Data Model representation](https://github.com/happy7434/Business-Insights-360/blob/main/Data%20Model.png))
 
-Visuals/Date_Table.png (dim_date table structure)
+📌 Purpose: Shows fact and dimension tables with their relationships.
 
-Visuals/FactActualsEstimates.png (Actuals & Forecasted Data Table)
+Visuals/Date_Table.png ([dim_date table structure](https://github.com/happy7434/Business-Insights-360/blob/main/Date%20Table.png))
+
+📌 Purpose: Shows the dim_date table structure, including date, month, and fiscal year columns.
+
+Visuals/FactActualsEstimates.png ([Actuals & Forecasted Data Table](https://github.com/happy7434/Business-Insights-360/blob/main/FactActualsEstimates.png))
+
+📌 Purpose: Displays the FactActualsEstimates table, which combines actual and forecasted data.
 
