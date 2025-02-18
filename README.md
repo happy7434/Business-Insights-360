@@ -1,1 +1,73 @@
 # Business-Insights-360
+
+### 📊 Project Overview
+
+Business Insights 360 is a SQL-powered analytics project that focuses on understanding and optimizing AtliQ Hardware's business operations. This project explores MySQL database tables, applies Star Schema modeling, and implements forecasting techniques such as Year-to-Date (YTD), Year-to-Go (YTG), and Landing Estimates (LE).
+
+### 🚀 Key Features
+
+Database Analysis: Explored different MySQL tables and their column purposes.
+
+- Star Schema Implementation: Gained Understanding of Fact and Dimension tables for optimized queries.
+- Business Context Analysis: Covered Channel, Platform, Product Category, Division, and Segment classifications.
+- Date Table Creation: Designed a structured date table for better time-series analysis.
+- FactActualsEstimates Table: Created to combine actual and forecasted data for better business planning.
+- Forecasting & Data Modeling: Implemented YTD, YTG, and LE concepts for predictive insights.
+- Power BI Visualization: Created interactive dashboards to showcase findings.
+
+### 🛠️ Technologies Used
+
+- MySQL - Data extraction.
+
+- Pwer Query - transformation.
+
+- Power BI - Visualization and dashboard creation.
+
+- Data Modeling - Fact vs Dimension table structuring.
+
+
+### The database follows a Star Schema structure with:
+
+#### 📌 Fact Tables:
+
+- fact_sales_monthly, fact_forecast_monthly and FactActualsEstimates (combined actual and forecast data)
+
+#### 📌 Dimension Tables:
+
+- dim_date, dim_product, dim_customer, dim_market, freight_cost, manufacturing_cost, post_invoice_deductions
+
+#### 📌 Fact vs Dimension Tables
+
+- Fact Tables: Store transactional data such as sales, revenue, and costs.
+  
+- Dimension Tables: Provide descriptive attributes (Product details, Customer info, Date, etc.).
+
+#### 📌 Business Context Definitions
+
+- Channels & Platforms
+  
+- Channels: Retailer, Direct, Distributor
+  
+- Platforms: Brick & Mortar, Distributor
+
+#### Product Hierarchy
+- Product Categories: Batteries, Business Laptop, Gaming Laptop, Graphic Card, etc.
+  
+- Divisions: P&A, N&S, PC
+  
+- Segments: Accessories, Desktop, Networking, etc.
+
+### 📅 Date Table & Forecasting Concepts
+
+**Date table containes following data for future findings:**
+- Date, Month, Fiscal Year
+
+
+### Screenshots showcasing the data model and key tables:
+
+Visuals/Data_Model.png (Star Schema representation)
+
+Visuals/Date_Table.png (dim_date table structure)
+
+Visuals/FactActualsEstimates.png (Actuals & Forecasted Data Table)
+
