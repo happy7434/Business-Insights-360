@@ -89,4 +89,4 @@ I've created an interactive **Power BI Dashboard** that visualizes key business 
 - 🔎 **Post-Invoice Deductions & Cost Analysis**
 
 📌 **Download the Power BI Dashboard (`.pbix` file) here:**  
-👉 [**Google Drive Link**]([YOUR_GOOGLE_DRIVE_LINK_HERE]([https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing)](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing))
+👉 [**Google Drive Link**](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing)
