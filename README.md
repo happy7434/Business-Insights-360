@@ -77,3 +77,16 @@ Visuals/FactActualsEstimates.png ([Actuals & Forecasted Data Table](https://gith
 
 📌 Purpose: Displays the FactActualsEstimates table, which combines actual and forecasted data.
 
+
+## 📊 Power BI Dashboard
+I've created an interactive **Power BI Dashboard** that visualizes key business insights for AtliQ Hardware.
+
+🔹 **Key Features:**
+- 📈 **Gross & Net Sales Analysis**
+- 📊 **Year-over-Year (YoY) Performance Tracking**
+- 🏆 **Profit & Loss (P&L) Summary by Market & Segment**
+- 📅 **Time-Based Trends (YTD, Q1-Q4 Comparisons)**
+- 🔎 **Post-Invoice Deductions & Cost Analysis**
+
+🔗 **Power BI Dashboard File:** [Business_Insights_360_Dashboard.pbix]([Dashboard/Business_Insights_360_Dashboard.pbix](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing))
+
