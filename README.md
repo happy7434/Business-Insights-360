@@ -90,3 +90,5 @@ I've created an interactive **Power BI Dashboard** that visualizes key business 
 
 📌 **Download the Power BI Dashboard (`.pbix` file) here:**  
 👉 [**Google Drive Link**](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing)
+
+🔹 **Note:** Google Drive does not preview `.pbix` files. Click **Download**, then open it in **Power BI Desktop**.
