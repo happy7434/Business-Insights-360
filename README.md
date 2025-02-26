@@ -88,5 +88,5 @@ I've created an interactive **Power BI Dashboard** that visualizes key business 
 - 📅 **Time-Based Trends (YTD, Q1-Q4 Comparisons)**
 - 🔎 **Post-Invoice Deductions & Cost Analysis**
 
-🔗 **Power BI Dashboard File:** [Business_Insights_360_Dashboard.pbix]([Dashboard/Business_Insights_360_Dashboard.pbix](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing))
-
+📌 **Download the Power BI Dashboard (`.pbix` file) here:**  
+👉 [**Google Drive Link**]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing))
