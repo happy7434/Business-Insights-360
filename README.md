@@ -4,7 +4,7 @@
 
 Business Insights 360 is a SQL-powered analytics project that focuses on understanding and optimizing AtliQ Hardware's business operations. This project explores MySQL database tables, applies Star Schema modeling, and implements forecasting techniques such as Year-to-Date (YTD), Year-to-Go (YTG), and Landing Estimates (LE).
 
-### 🚀 Key Features
+### 🚀 Key Features & Views
 
 Database Analysis: Explored different MySQL tables and their column purposes.
 
@@ -13,7 +13,9 @@ Database Analysis: Explored different MySQL tables and their column purposes.
 - Date Table Creation: Designed a structured date table for better time-series analysis.
 - FactActualsEstimates Table: Created to combine actual and forecasted data for better business planning.
 - Forecasting & Data Modeling: Implemented YTD, YTG, and LE concepts for predictive insights.
-- Power BI Visualization: Created interactive dashboards to showcase findings.
+- Power BI Visualization: Created interactive dashboards to showcase findings. Data modeling, visualization, report design
+- DAX: Custom measures (YTD, YTG, Landing Estimates, Forecast Accuracy, Net Error)
+
 
 ### 🛠️ Technologies Used
 
@@ -88,7 +90,44 @@ I've created an interactive **Power BI Dashboard** that visualizes key business 
 - 📅 **Time-Based Trends (YTD, Q1-Q4 Comparisons)**
 - 🔎 **Post-Invoice Deductions & Cost Analysis**
 
+
+#### 📌 Home
+
+High‑level KPIs and navigation menu
+
+#### 📌 P&L Check
+
+Detailed Profit & Loss statement vs. benchmarks
+
+#### 📌 Finance
+
+Revenue, Gross & Net Margins, Post‑invoice deductions, YoY trends
+
+#### 📌 Sales
+
+Top customers & products by Net Sales, Gross Margin vs. Net Sales matrix, unit economics
+
+#### 📌 Marketing
+
+Division & segment performance, Net Profit matrix, product P&L breakdown
+
+#### 📌 Supply Chain
+
+Forecast Accuracy, Net Error, Absolute Error, risk profiling by product & customer
+
+#### 📌 Monthly Trend
+
+Time series of Net Sales, GM %, Net Profit %, Forecast vs. Target
+
+#### 📌 Market Share
+
+Sub‑zone/Sub‑region performance, PC market share trend, top 5 customers & products
+
+#### 📌 Executive
+
+Consolidated high‑level dashboard for leadership—including P&L, Sales & Market Share
+
 📌 **Download the Power BI Dashboard (`.pbix` file) here:**  
-👉 [**Google Drive Link**](https://drive.google.com/file/d/1tU5rE-3o8rCYn949QCrUyuqYZhNHqRUJ/view?usp=sharing)
+👉 [**Google Drive Link**](https://drive.google.com/file/d/1BQT7jK0AfoR3WL82vMftff-z573LnYx2/view?usp=sharing)
 
 🔹 **Note:** Google Drive does not preview `.pbix` files. Click **Download**, then open it in **Power BI Desktop**.
