@@ -4,7 +4,7 @@
 
 Business Insights 360 is a SQL-powered analytics project that focuses on understanding and optimizing AtliQ Hardware's business operations. This project explores MySQL database tables, applies Star Schema modeling, and implements forecasting techniques such as Year-to-Date (YTD), Year-to-Go (YTG), and Landing Estimates (LE).
 
-### 🚀 Key Features & Views
+### 🚀 Key Features
 
 Database Analysis: Explored different MySQL tables and their column purposes.
 
@@ -65,31 +65,7 @@ Database Analysis: Explored different MySQL tables and their column purposes.
 - Date, Month, Fiscal Year
 
 
-### Screenshots showcasing the data model and key tables:
-
-Visuals/Data_Model.png ([Data Model representation](https://github.com/happy7434/Business-Insights-360/blob/main/Data%20Model.png))
-
-📌 Purpose: Shows fact and dimension tables with their relationships.
-
-Visuals/Date_Table.png ([dim_date table structure](https://github.com/happy7434/Business-Insights-360/blob/main/Date%20Table.png))
-
-📌 Purpose: Shows the dim_date table structure, including date, month, and fiscal year columns.
-
-Visuals/FactActualsEstimates.png ([Actuals & Forecasted Data Table](https://github.com/happy7434/Business-Insights-360/blob/main/FactActualsEstimates.png))
-
-📌 Purpose: Displays the FactActualsEstimates table, which combines actual and forecasted data.
-
-
-## 📊 Power BI Dashboard
-I've created an interactive **Power BI Dashboard** that visualizes key business insights for AtliQ Hardware.
-
-🔹 **Key Features:**
-- 📈 **Gross & Net Sales Analysis**
-- 📊 **Year-over-Year (YoY) Performance Tracking**
-- 🏆 **Profit & Loss (P&L) Summary by Market & Segment**
-- 📅 **Time-Based Trends (YTD, Q1-Q4 Comparisons)**
-- 🔎 **Post-Invoice Deductions & Cost Analysis**
-
+### 🚀 Views
 
 #### 📌 Home
 
@@ -126,6 +102,58 @@ Sub‑zone/Sub‑region performance, PC market share trend, top 5 customers & pr
 #### 📌 Executive
 
 Consolidated high‑level dashboard for leadership—including P&L, Sales & Market Share
+
+### Screenshots showcasing the data model and key tables:
+
+Visuals/Data_Model.png ([Data Model representation](https://github.com/happy7434/Business-Insights-360/blob/main/Data%20Model.png))
+
+📌 Purpose: Shows fact and dimension tables with their relationships.
+
+Visuals/Date_Table.png ([dim_date table structure](https://github.com/happy7434/Business-Insights-360/blob/main/Date%20Table.png))
+
+📌 Purpose: Shows the dim_date table structure, including date, month, and fiscal year columns.
+
+Visuals/FactActualsEstimates.png ([Actuals & Forecasted Data Table](https://github.com/happy7434/Business-Insights-360/blob/main/FactActualsEstimates.png))
+
+📌 Purpose: Displays the FactActualsEstimates table, which combines actual and forecasted data.
+
+Home.png ([https://github.com/happy7434/Business-Insights-360/blob/main/Home.png])
+
+📌 Purpose: Provides an at-a-glance summary of key performance indicators and quick navigation to detailed views.
+
+Finance View.png ([https://github.com/happy7434/Business-Insights-360/blob/main/Finance%20View.png])
+
+📌 Purpose: Analyzes revenue, margins, and post-invoice cost deductions over time for financial health monitoring.
+
+Sales View.png ([https://github.com/happy7434/Business-Insights-360/blob/main/Sales%20View.png])
+
+📌 Purpose: Examines customer and product performance, including net sales, gross margin correlation, and unit economics.
+
+Marketing View.png ([https://github.com/happy7434/Business-Insights-360/blob/main/Marketing%20View.png])
+
+📌 Purpose: Evaluates division- and segment-level profitability, product contribution, and marketing-driven P&L impact.
+
+Supply Chain.png ([https://github.com/happy7434/Business-Insights-360/blob/main/Supply%20Chain%20View.png])
+
+📌 Purpose: Assesses forecast accuracy, net error, and risk profiles across products and customers to optimize operations.
+
+Executive.png ([https://github.com/happy7434/Business-Insights-360/blob/main/Executive%20View.png])
+
+📌 Purpose: Presents a high-level dashboard combining key insights from all views for strategic decision-making.
+
+
+
+## 📊 Power BI Dashboard
+I've created an interactive **Power BI Dashboard** that visualizes key business insights for AtliQ Hardware.
+
+🔹 **Key Features:**
+- 📈 **Gross & Net Sales Analysis**
+- 📊 **Year-over-Year (YoY) Performance Tracking**
+- 🏆 **Profit & Loss (P&L) Summary by Market & Segment**
+- 📅 **Time-Based Trends (YTD, Q1-Q4 Comparisons)**
+- 🔎 **Post-Invoice Deductions & Cost Analysis**
+
+
 
 📌 **Download the Power BI Dashboard (`.pbix` file) here:**  
 👉 [**Google Drive Link**](https://drive.google.com/file/d/1BQT7jK0AfoR3WL82vMftff-z573LnYx2/view?usp=sharing)
